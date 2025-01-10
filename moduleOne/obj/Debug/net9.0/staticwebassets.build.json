@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "W+e6eXBAZ9P176r2HIvRihBQNwJVTxv2bwMrsyF2VGI=",
+  "Source": "moduleOne",
+  "BasePath": "_content/moduleOne",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
